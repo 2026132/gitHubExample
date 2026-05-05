@@ -17,7 +17,8 @@ public class GitHubExample {
      */
     public static void main(String[] args) {
         Scanner myKB = new Scanner (System.in);
-        
+        int num;
+        num = myKB.nextInt();
         
         
         // TODO code application logic here
