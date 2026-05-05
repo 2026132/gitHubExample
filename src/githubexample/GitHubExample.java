@@ -4,6 +4,8 @@
  */
 package githubexample;
 
+import java.util.Scanner;
+
 /**
  *
  * @author ander
@@ -14,6 +16,10 @@ public class GitHubExample {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        Scanner myKB = new Scanner (System.in);
+        
+        
+        
         // TODO code application logic here
     }
     
