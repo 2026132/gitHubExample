@@ -19,6 +19,7 @@ public class GitHubExample {
         Scanner myKB = new Scanner (System.in);
         int num;
         num = myKB.nextInt();
+        System.out.println("Hello world");
         
         
         // TODO code application logic here
